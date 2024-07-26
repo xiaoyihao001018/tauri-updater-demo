@@ -1,5 +1,4 @@
 name: Release
-# 触发方式
 on:
   push:
     tags:
